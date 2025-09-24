@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: japaneast
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Azure subscription 1
+  SUBSCRIPTION-ID: f342cc3c-d3b9-4979-9e06-ca2a77bc3863
   WEBAPP-NAME: eshoponweb-webapp-HINOTATSUKI
 
 
